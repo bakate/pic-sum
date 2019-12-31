@@ -1,3 +1,3 @@
 # pic-sum
 
-## A react web app with hooks and only hooks to handle the state 
+## A React web app with only the use of hooks (useState, useEffect, useContext and useRef) to handle different states
